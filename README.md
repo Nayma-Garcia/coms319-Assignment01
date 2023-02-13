@@ -8,13 +8,14 @@ It includes the following webpages which use bootstrap templates as the base:
 
 - Index.html Page
   - The main webpage you see when you open the website. It just has a picture of our world with its name
+  - Also if you click on the big minecraft logo on the top of every page it takes you back to this page
   
 - About us Page:
   - This webpage just talks a little bit about us (the makers of the website, Justin and Nayma) and shows our minecraft characters
   
 - The Lore Page:
-  - This page is just for fun, it talks about the history of our world and everything thats happened in it since we've made it along with some  
-    of the other people we play with.
+  - This page is just for fun, it talks about the history of our world and everything thats happened in it since we've made it along with some  of the    
+    other people we play with.
     
 - H&M Store Page:
   - This page is where our catalog of products is. It has a picture of the store we built in our world and then the catalog of products which is the          
